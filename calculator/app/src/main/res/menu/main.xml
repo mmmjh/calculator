@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.testmenu_xml.MainActivity" >
+
+    <group android:id="@+id/menuGroup_main">
+        <item android:id="@+id/menuItem_1"
+            android:icon="@mipmap/ic_launcher"
+            android:title="menu_1"/>
+
+    </group>
+</menu>
